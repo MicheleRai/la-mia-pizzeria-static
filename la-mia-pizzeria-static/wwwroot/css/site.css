@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.ciao{
+    border-bottom:2px solid black;
+}

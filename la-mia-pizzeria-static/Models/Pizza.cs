@@ -9,7 +9,7 @@
 
         public Pizza() { }
 
-        public Pizza(string name, string description, string foto, double prezzo)
+        public Pizza(string? name, string? description, string? foto, double prezzo)
         {
             this.Name = name;
             this.Description = description;
